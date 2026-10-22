@@ -37,7 +37,7 @@ const styles = StyleSheet.create({
  sousTitre: {
     marginTop: 12,
     fontSize: 16,
-    textAlign: 'center',
+   
  },
  bouton: {
   marginTop: 24,
